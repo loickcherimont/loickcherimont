@@ -30,8 +30,8 @@ My target 🚩, in 3 years to become a full-stack developer!
 <!-- Motivations, how, why I do them -->
 
 ## Contact me
-  - [LinkedIn](linkedin.com/in/loïck-chérimont-219429219)
-  - [Gmail](loickcherimont@gmail.com)
+  - [LinkedIn](https://linkedin.com/in/loïck-chérimont-219429219)
+  - [Gmail](http://loickcherimont@gmail.com)
 <!---
 loickcherimont/loickcherimont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

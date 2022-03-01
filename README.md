@@ -7,7 +7,7 @@ My target 🚩, in 3 years to become a full-stack developer!
 ## Technologies
 <!-- Present techno I use -->
 <!-- precisely, my forces in these techno -->
-### Languages
+<!--### Languages
 
 ### Databases
 - MySQL
@@ -25,7 +25,7 @@ My target 🚩, in 3 years to become a full-stack developer!
 | - PHP        |            |             |              |
 | - Golang     |            |             |              |
 | - HTML5/CSS3 |            |             |              |
-
+-->
 ## How I make projects
 <!-- Motivations, how, why I do them -->
 

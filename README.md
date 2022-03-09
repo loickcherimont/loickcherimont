@@ -1,19 +1,41 @@
-# Loick Cherimont - @loickcherimont
-Hi, I am Loick, a Math student 🎓 at [Reunion island University](https://www.univ-reunion.fr/) 🏝️.  
+# Hi developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+I am Loick, a Math student 🎓 at [Reunion island University](https://www.univ-reunion.fr/) 🏝️.  
 I am passionate about coding 🖥️, running, walking precisely, web development interests me 🌐.  
-My target 🚩, in 3 years to become a full-stack developer!
+My target, become a full-stack developer!
 
-## Used technologies actually
-### Front-End
-<a href="#"><img src="https://ercunningham8.github.io/Bitcamp/images/html_css.jpg" alt="HTML5/CSS3 logo" width=75 height=75> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript logo" width=75 height=75> <img src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="logo Bootstrap" width=75 height=75></a>
-### Back-End
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python logo" width=75 height=75> <img src="https://pngimg.com/uploads/php/php_PNG43.png" alt="PHP logo" width=75 height=75> <img src="https://www.ntrrg.dev/es/blog/go-golang/images/go.png" alt="Go logo" width=75 height=75> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL logo" width=75 height=75> <img src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2018/02/logo-influxdb-1.jpg" alt="Influx logo" width=100 height=100></a>
-### Not web
-<a href="#"><img src="https://decmod.diegoazeta.org/resources/Links/LaTeX.gif?timestamp=1274318639530" alt="Latex logo" width=75 height=75> <img src="https://p7.hiclipart.com/preview/446/720/956/powershell-microsoft-corporation-installation-net-framework-windows-server-meetup-logo.jpg" alt="Powershell logo" width="75" height="75"> <img src="https://www.lffl.org/wp-content/uploads/2016/03/bash-sehll.jpeg" alt="BASH Shell logo" width=75 height=75></a>
+## Tools for coding
+<!--### Front-End-->
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## How I make projects
+<!-- ### Back-End -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/influxdb-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white) <!-- Add a customized InfluxDB badge -->
+<!--### Others-->
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<!--## How I make projects-->
 <!-- Motivations, how, why I do them -->
+## Statistics
 
 ## Contact me
-- [LinkedIn](https://www.linkedin.com) <!-- Find the code to send me a message -->
-- [Gmail](mailto:loickcherimont@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loïck-chérimont-219429219/)

@@ -67,4 +67,10 @@
   <a href="mailto:loickcherimont@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn badge">
   </a>
+  <a href="https://twitter.com/CherimontLoick">
+    <img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge">
+  </a>
+  <a href="https://stackoverflow.com/users/17723604/loick-cherimont">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow badge">
+  </a>
 </p>

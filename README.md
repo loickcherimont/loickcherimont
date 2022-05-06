@@ -51,13 +51,7 @@
   </a>
 </p>
 
-## Github Analytics
-<a href="https://github.com/loickcherimont"><img alt="loickcherimont's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loickcherimont&custom_title=Loick's%20Contribution%20Graph&theme=react-dark"></a>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loickcherimont&show_icons=true&locale=en" alt="Loick Cherimont">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&" alt="Loick Cherimont">
-</p>
+<!-- Add stat indications for my activity on Github -->
     
 ## Contact me
 <p align="center">

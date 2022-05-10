@@ -18,11 +18,11 @@
   <a/>
   <!--<a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge">  
-  </a>
+  </a>-->
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go badge">
   </a>
-  <a href="https://www.php.net/">
+  <!--<a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
   </a>
   <a href="https://www.mysql.com">

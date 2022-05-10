@@ -16,7 +16,7 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
   <a/>
-  <a href="https://www.python.org/">
+  <!--<a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge">  
   </a>
   <a href="https://go.dev/">
@@ -33,13 +33,13 @@
   </a>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime text badge">
-  </a>
+  </a>-->
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code badge">
   </a>
-  <a href="https://atom.io/">
+  <!--<a href="https://atom.io/">
     <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" alt="Atom badge">
-  </a>
+  </a>-->
   <a href="https://www.microsoft.com/en-us/?ql=3">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge">  
   </a>

@@ -55,7 +55,7 @@
     
 ## Contact me
 <p align="center">
-  <a href="https://linkedin.com/in/loïck-chérimont-219429219/">
+  <a href="https://www.linkedin.com/in/loickcherimont/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
   <a href="mailto:loickcherimont@gmail.com">

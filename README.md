@@ -1,3 +1,4 @@
+<img src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" alt="Profile banner" width="100%" height="350px" style="user-select:none">
 <h1 align="center">Loick Cherimont</h1>
 
 ## :grey_question: About me

@@ -1,27 +1,48 @@
-<img src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" alt="Profile banner" width="100%" height="350px" style="user-select:none">
+<img src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" alt="Profile banner" width="100%" height="350px">
 <h1 align="center">Loick Cherimont</h1>
 
-## :grey_question: About me
-*It's coming...*
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5050&color=0E99F7&center=true&vCenter=true&width=950&lines=Math+Student+%F0%9F%8E%93;Runner+%F0%9F%8F%83%7C+Explorer+%F0%9F%A4%A0+%7C+Coder+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Never+Stop+Coding+To+Become+...;%F0%9F%91%91+A+GRAND+FULL-STACK+DEVELOPER+%F0%9F%91%91)](https://git.io/typing-svg)-->
+## 👷 About me
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Algebra+%E2%9D%A4%EF%B8%8F+Algorithms;Curious+%7C+Creative+%7C+Self-educated;%F0%9F%8E%AF+My+goal...+%F0%9F%8E%AF;Become....;%F0%9F%91%91+Full-Stack+Developer+%F0%9F%91%91">
+</p>
 
 ## :wrench: My tools
+
 ### My programming languages
+<p align="center">
+  <a href="https://go.dev">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang Logo">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Logo">
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP Logo">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Logo">
+  </a>
+</p>
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" alt="Golang Logo" width="60px">
-<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript Logo" width="50px">
-<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python Logo" width="50px">
-<img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="PHP Logo" width="50px">
+### Other
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Logo">
+  </a>
+  <a href="https://www.microsoft.com">
+    <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 Logo">
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Logo">
+  </a>
+</p>
 
-### Other tools
-<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="Visual Studio Code Logo" width="30px">
-<img src="https://img.icons8.com/color/344/windows-10.png" alt="Windows 10 Logo" width="30px">
-<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" alt="Git Logo" width="30px">
-<img src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png" alt="Github Logo" width="30px">
-
-<!-- Add stat indications for my activity on Github -->
+<!-- Add stat indications for my activity on Github
 ## Github analytics
-*It's coming...*
+*It's coming...* -->
     
 ## :telephone_receiver: Contact me
 <p align="center">

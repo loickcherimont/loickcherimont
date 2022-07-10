@@ -59,4 +59,4 @@
 
 Credits: [Loick Cherimont](https://github.com/loickcherimont)
 
-Last Edited on: Jun, 15th 2022
+Last Edited on: July, 7th 2022

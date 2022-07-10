@@ -55,9 +55,6 @@
   <a href="https://twitter.com/CherimontLoick">
     <img src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge">
   </a>
-  <a href="http://www.onlinecv-loickcherimont.com">
-    <img src="https://img.shields.io/badge/OnlineCV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Logo for Website">
-  </a>
 </p>
 
 Credits: [Loick Cherimont](https://github.com/loickcherimont)

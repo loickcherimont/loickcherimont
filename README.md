@@ -53,7 +53,7 @@
   </a>
 </p>-->
     
-## :telephone_receiver: Contact me
+<!-- ## :telephone_receiver: Contact me
 <p align="center">
   <a href="https://www.linkedin.com/in/loickcherimont/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Loick's LinkedIn">
@@ -61,5 +61,5 @@
 </p>
 
 Credits: [Loick Cherimont](https://github.com/loickcherimont)
-
+-->
 Last Edited on: January, 15th 2023

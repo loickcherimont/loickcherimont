@@ -10,6 +10,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   </a>
+  <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React JS">
+  </a>
     <!--<a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
@@ -59,7 +62,5 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Loick's LinkedIn">
   </a>
 </p>
-
-Credits: [Loick Cherimont](https://github.com/loickcherimont)
 -->
-Last Edited on: January, 15th 2023
+Last Edited on: 2023-02-04

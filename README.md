@@ -1,5 +1,7 @@
 <h1 align="center">:construction: ... Loick CHERIMONT ... :building_construction:</h1>
-## :wrench: My work tools
+
+## My work tools
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">

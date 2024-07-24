@@ -1,6 +1,6 @@
 <h1 align="center">Loïck CHERIMONT</h1>
 
-## My work tools
+## Tools 🛠️
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -9,16 +9,15 @@
   <a href="https://react.dev">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React JS">
   </a>
-    <!--
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  </a>-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  </a>
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
+  </a>-->
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
@@ -27,4 +26,15 @@
   </a>
 </p>
 
-Last Edited on: 2023-12-14
+## Contact 🗣️
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/loickcherimont">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:loickcherimont@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+Last Edited on: 2024-07-24

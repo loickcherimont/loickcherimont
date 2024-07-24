@@ -27,6 +27,8 @@
 </p>
 
 <!--
+Fedora, Windows
+Linux Ubuntu, bash
 Note the usage of Next, Node, SQLite, Vite
 
 -->

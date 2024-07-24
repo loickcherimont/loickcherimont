@@ -26,6 +26,11 @@
   </a>
 </p>
 
+<!--
+Note the usage of Next, Node, SQLite, Vite
+
+-->
+
 ## Contact 🗣️
 
 <p align="center">

@@ -1,18 +1,18 @@
 ![Header](/github-banner.png)
 
-### 👨🏾‍💻 About me
+## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->
 A passionate about Web Development
 
-### 📊 Github analytics
+## 📊 Github analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="My Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&theme=midnight-purple&hide_border=false" alt="My Streaks">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
 </div>
 
-### 🛠️ Tech Stack
-#### Languages
+## 🛠️ Tech Stack
+### Languages
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -29,7 +29,7 @@ A passionate about Web Development
   </a> -->
 </p>
 
-#### Frameworks
+### Frameworks
 
 <p align="center">
     <a href="https://react.dev">
@@ -43,7 +43,7 @@ A passionate about Web Development
   </a>
 </p>
 
-#### Others
+### Others
 
 <p align="center">
     <a href="https://fedoraproject.org/">
@@ -69,7 +69,7 @@ A passionate about Web Development
   </a>
 </p>
 
-#### Curious about ...
+### Curious about ...
 
 <p align="center">
     <a href="https://nodejs.org/en">
@@ -89,7 +89,7 @@ A passionate about Web Development
 <!-- To hide: PHP, C, Java (secret skills I want to develop) -->
 
 
-### ☎️ Connect with me 
+## ☎️ Connect with me 
 
 <!-- @todo: use another template for social media -->
 

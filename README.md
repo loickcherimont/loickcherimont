@@ -2,74 +2,64 @@
 
 ## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->
-A passionate about Web Development
-
-## 📊 Github analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="My Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&theme=midnight-purple&hide_border=false" alt="My Streaks">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
-</div>
+*A passionate about Web Development*
 
 ## 🛠️ Tech Stack
+
 ### Languages
 
-<p align="center">
+<div align="center">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
+  <img width="12" />
+
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </a>
+  <img width="12" />
+
   <a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   </a>
+  <img width="12" />
+</div>
+
+<!--
+SECRET LANGUAGES
++  <a href="https://www.php.net/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  </a>
+  <img width="12" />
+
+
++  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C lang."  />
+  <img width="12" />
+
++ Java
+-->
+
+### Libraries & frameworks
+
+<div align="center">
+  <a href="https://react.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  </a>
+  <img width="12" />
+
+  <a href="https://getbootstrap.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  </a>
+  <img width="12" />
   
-  <!--
-  This is a secret skill do not show it!
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  </a> -->
-</p>
+  <a href="https://tailwindcss.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  </a>
+  <img width="12" />
+</div>
 
-### Frameworks
-
-<p align="center">
-    <a href="https://react.dev">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React JS">
-  </a>
-    <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-    <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCss">
-  </a>
-</p>
-
-### Others
-
-<p align="center">
-    <a href="https://fedoraproject.org/">
-    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Linux Fedora">
-  </a>
-    <a href="https://www.microsoft.com/fr-fr/windows?msockid=34f25a4981066e650d814ece80006f17">
-    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
-  </a>
-    <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu">
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-</p>
-
-### Curious about ...
+<!-- 
+SECRET LIB/FRAMEWORKS
 
 <p align="center">
     <a href="https://nodejs.org/en">
@@ -85,20 +75,79 @@ A passionate about Web Development
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
   </a>
 </p>
+-->
 
-<!-- To hide: PHP, C, Java (secret skills I want to develop) -->
+### Others
 
+<div align="center">
+  <a href="https://fedoraproject.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.microsoft.com/fr-fr/windows?msockid=34f25a4981066e650d814ece80006f17">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://ubuntu.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  </a>
+</div>
 
-## ☎️ Connect with me 
+<!-- 
+SECRET other
+
+- macOS
+-->
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="My Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&theme=midnight-purple&hide_border=false" alt="My Streaks">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
+</div>
+
 
 <!-- @todo: use another template for social media -->
 
-<p align="center">
-      <a href="https://www.linkedin.com/in/loickcherimont">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:loickcherimont@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<h2 align="center">Connect with me 🫱🏿‍🫲🏽</h2>
 
+- [Join me on LinkedIn](https://www.linkedin.com/in/loickcherimont)
+- [Send me a mail](mailto:loickcherimont@gmail.com)
+
+
+<!--<nav align="left">
+  <a href="https://www.linkedin.com/in/loickcherimont" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <span>linkedin.com/in/loickcherimont</span>
+  </a>
+  <a href="mailto:loickcherimont@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</nav>-->
+
+---
+
+<p align="center">&copy; 2024 - Loick Cherimont</p>

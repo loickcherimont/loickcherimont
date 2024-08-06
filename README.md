@@ -1,6 +1,4 @@
-<h1 align="center" style='color:red;'>Loick Cherimont</h1>
-
-<h2 align="center">Apprentice Javascript Developer</h2>
+![Header](/github-banner.png)
 
 ### 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->

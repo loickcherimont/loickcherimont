@@ -14,10 +14,10 @@
   </a>
   <img width="12" />
 
-  <a href="https://www.php.net/">
+ <!-- <a href="https://www.php.net/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   </a>
-  <img width="12" />
+  <img width="12" />-->
 
   <a href="https://go.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />

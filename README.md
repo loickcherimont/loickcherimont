@@ -1,4 +1,4 @@
-![Header](/github-banner.png)
+![Header](./github-banner.png)
 
 ## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->

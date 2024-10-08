@@ -1,4 +1,6 @@
-![Header](./banner.png)
+<h1 align="center">
+  <img src="./github-header-image.png"/>
+</h1>
 
 ## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->

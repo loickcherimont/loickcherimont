@@ -4,7 +4,9 @@
 
 ## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me -->
-*A passionate about Web Development*
+I discovered this field 5 years ago, and now I continue to learn to become a specialist in web development.  
+
+My favorite tools are part of the JavaScript ecosystem, and since 2022, I've been using Go as my new back-end language, but that's not all ...
 
 ## 🛠️ Tech Stack
 

@@ -130,9 +130,8 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
 </div>
 
-
-
 <h2 align="center">Connect with me 🫱🏿‍🫲🏽</h2>
+
 - [Join me on LinkedIn](https://www.linkedin.com/in/loickcherimont)
 - [Send me a mail](mailto:loickcherimont@gmail.com)
 

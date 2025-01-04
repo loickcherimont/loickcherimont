@@ -1,12 +1,10 @@
-<h1 align="center">
-  <img src="./github-header-image.png"/>
-</h1>
+# Loïck CHERIMONT | Web Developer
 
-## 👨🏾‍💻 About me
-<!-- @todo : Write a short description on me -->
+<!--## 👨🏾‍💻 About me
+<!-- @todo : Write a short description on me
 I discovered this field 5 years ago, and now I continue to learn to become a specialist in web development.  
 
-My favorite tools are part of the JavaScript ecosystem, and since 2022, I've been using Go as my new back-end language, but that's not all ...
+My favorite tools are part of the JavaScript ecosystem, and since 2022, I've been using Go as my new back-end language, but that's not all ...-->
 
 ## 🛠️ Tech Stack
 

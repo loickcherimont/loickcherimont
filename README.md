@@ -14,22 +14,23 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 <div align="center">  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/></a>
   <img width="12" />
+      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JavaScript logo"/></a>
+    <img width="12" />
   <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
 </div>
 
 #### Secondary
 <div align="center">
- <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+ <!--<a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   </a>
-  <img width="12" />
+  <img width="12" />-->
    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="php logo" title="Python"/>
   </a>
-    <img width="12" />
-      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JavaScript logo"/></a>
+    <!--
   <img width="12" />
   <a href="https://docs.oracle.com/en/java/javase/21/" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/>
-  </a>
+  </a>-->
 </div>
 
 ### Libraries & frameworks

@@ -56,16 +56,16 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="40" alt="Fiber logo"  />
   </a>
   <img width="12" />
-      <a href="https://gin-gonic.com/" title="Express.js, Node.js web application framework">
-    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" height="40" alt="Express logo"  />
+      <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
+    <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="40" alt="Express logo"  />
   </a>
 
 
 </div>
 
-### Utils
+<!--### Utils -->
 
-#### Database & Versioning
+### Database & Versioning
 <div align="center">
     <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -84,7 +84,7 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   </a>
 </div>
 
-#### Design 
+### Design 
 <div align="center">
   <!--<a href="https://getbootstrap.com/" title="Bootstrap 5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
@@ -99,16 +99,16 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   </a>-->
 </div>
 
-#### Environment 
+### Environment 
 <div align="center">
-  <!--<a href="https://nodejs.org/en" title="Node.js">
+  <a href="https://nodejs.org/en" title="Node.js">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
   </a>
     <img width="12" />
     <a href="https://vite.dev/" title="Vite">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite logo"  />
   </a>
-    <img width="12" />-->
+    <img width="12" />
   <a href="https://fedoraproject.org/" title="Fedora 41">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="Fedora logo"  />
   </a>
@@ -133,15 +133,16 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   <img width="12" />-->
 </div>
 
-## 📊 Stats
+<!--## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="My Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&theme=midnight-purple&hide_border=false" alt="My Streaks">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
-</div>
+</div>-->
 
-<h2 align="center">Connect with me 🫱🏿‍🫲🏽</h2>
+<!--<h2 align="center"></h2>-->
+## 🫱🏿‍🫲🏽 Connect with me 
 
 - [Join me on LinkedIn](https://www.linkedin.com/in/loickcherimont)
 - [Send me a mail](mailto:loickcherimont@gmail.com)

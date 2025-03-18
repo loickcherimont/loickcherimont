@@ -1,37 +1,40 @@
-# Loïck CHERIMONT | TypeScript Web Developer
+# Hi, everyone 👋🏾
 
+![Header](./github-header-image.png)
 <!--## 👨🏾‍💻 About me
 <!-- @todo : Write a short description on me
 I discovered this field 5 years ago, and now I continue to learn to become a specialist in web development.  
 
 My favorite tools are part of the JavaScript ecosystem, and since 2022, I've been using Go as my new back-end language, but that's not all ...-->
 
-## 🛠️ Tech Stack
+
+## 🛠️ Stack
 
 ### Languages
 
-#### Primary
+<!--#### Primary -->
 <div align="center">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/></a>
-  <img width="12" />
+    <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/></a>
+  <img width="12" />-->
       <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JavaScript logo"/></a>
+    <img width="12" />
+    <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
     <img width="12" />
 </div>
 
-#### Secondary
-<div align="center">
+<!--#### Secondary-->
+<!--<div align="center">-->
  <!--<a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   </a>
   <img width="12" />-->
    <!--<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="php logo" title="Python"/>
   </a>-->
-      <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
-    <!--
+<!--
   <img width="12" />
   <a href="https://docs.oracle.com/en/java/javase/21/" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/>
-  </a>-->
-</div>
+  </a>
+</div>-->
 
 ### Libraries & frameworks
 
@@ -47,6 +50,14 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   <img width="12" />
       <a href="https://gin-gonic.com/" title="Gin Web Framework">
     <img src="https://github.com/gin-gonic/logo/blob/master/color.png" height="40" alt="Gin logo"  />
+  </a>
+    <img width="12" />
+      <a href="https://gofiber.io/" title="Fiber, an Express-inspired web framework written in Go">
+    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="40" alt="Fiber logo"  />
+  </a>
+  <img width="12" />
+      <a href="https://gin-gonic.com/" title="Express.js, Node.js web application framework">
+    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" height="40" alt="Express logo"  />
   </a>
 
 

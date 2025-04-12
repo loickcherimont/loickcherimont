@@ -10,16 +10,34 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 
 ## 🛠️ Stack
 
-### Languages
+### On learning ...
+<div align="center">
+    <a href="https://devicons.railway.com/i/mongodb.svg" title="MongoDB" >
+        <img src="https://devicons.railway.com/i/mongodb.svg" height="40" alt="MongoDB logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://reactnative.dev/" title="React Native">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo"/>
+    </a>
+    <img width="12" />
+    <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
+        <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="40" alt="Express logo"  />
+    </a>
+</div>
+
+
+
+
+### Language
 
 <!--#### Primary -->
 <div align="center">  
     <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/></a>
   <img width="12" />-->
       <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JavaScript logo"/></a>
-    <img width="12" />
+    <!--<img width="12" />
     <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
-    <img width="12" />
+    <img width="12" />-->
 </div>
 
 <!--#### Secondary-->
@@ -39,28 +57,21 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 ### Libraries & frameworks
 
 <div align="center">
-  <a href="https://react.dev" title="React 18">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://vuejs.org/" title="Vue 3">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"/>
-  </a>
-  <img width="12" />
-      <a href="https://gin-gonic.com/" title="Gin Web Framework">
-    <img src="https://github.com/gin-gonic/logo/blob/master/color.png" height="40" alt="Gin logo"  />
-  </a>
+    <a href="https://vuejs.org/" title="Vue 3">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"/>
+    </a>
     <img width="12" />
-      <a href="https://gofiber.io/" title="Fiber, an Express-inspired web framework written in Go">
-    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="40" alt="Fiber logo"  />
-  </a>
-  <img width="12" />
-      <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
-    <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="40" alt="Express logo"  />
-  </a>
-
-
+    <a href="https://react.dev" title="React 18">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+    </a>
+<!--     <img width="12" />
+    <a href="https://gin-gonic.com/" title="Gin Web Framework">
+        <img src="https://github.com/gin-gonic/logo/blob/master/color.png" height="40" alt="Gin logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://gofiber.io/" title="Fiber, an Express-inspired web framework written in Go">
+        <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="40" alt="Fiber logo"  />
+    </a> -->
 </div>
 
 <!--### Utils -->
@@ -132,14 +143,6 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
   </a>
   <img width="12" />-->
 </div>
-
-<!--## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="My Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loickcherimont&theme=midnight-purple&hide_border=false" alt="My Streaks">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickcherimont&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="My Top Tools">
-</div>-->
 
 <!--<h2 align="center"></h2>-->
 ## 🫱🏿‍🫲🏽 Connect with me 

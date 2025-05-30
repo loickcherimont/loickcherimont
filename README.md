@@ -12,16 +12,26 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 
 ### On learning ...
 <div align="center">
-    <a href="https://devicons.railway.com/i/mongodb.svg" title="MongoDB" >
+<!--     <a href="https://devicons.railway.com/i/mongodb.svg" title="MongoDB" >
         <img src="https://devicons.railway.com/i/mongodb.svg" height="40" alt="MongoDB logo"  />
+    </a> -->
+    <a href="https://nestjs.com/" title="NestJS, Node.js framework">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo"  />
     </a>
     <img width="12" />
     <a href="https://reactnative.dev/" title="React Native">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo"/>
     </a>
     <img width="12" />
-    <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
+<!--     <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
         <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="40" alt="Express logo"  />
+    </a> -->
+    <a href="https://expo.dev/" title="Expo, framework for Mobile App Development">
+        <img src="#" height="40" alt="Expo logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://www.prisma.io/orm" title="Prisma, TypeScript ORM">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo"  />
     </a>
 </div>
 
@@ -34,7 +44,9 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 <div align="center">  
     <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/></a>
   <img width="12" />-->
-      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JavaScript logo"/></a>
+      <a href="https://www.typescriptlang.org/" title="TypeScript">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
+      </a>
     <!--<img width="12" />
     <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
     <img width="12" />-->
@@ -57,8 +69,11 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 ### Libraries & frameworks
 
 <div align="center">
-    <a href="https://vuejs.org/" title="Vue 3">
+<!--     <a href="https://vuejs.org/" title="Vue 3">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"/>
+    </a> -->
+    <a href="https://nextjs.org/" title="Next.js, React Framework">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"/>
     </a>
     <img width="12" />
     <a href="https://react.dev" title="React 18">

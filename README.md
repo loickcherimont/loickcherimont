@@ -1,20 +1,16 @@
-# Hi, everyone 👋🏾
-
-![Header](./header_20250707.png)
-<!--## 👨🏾‍💻 About me
-<!-- @todo : Write a short description on me
-I discovered this field 5 years ago, and now I continue to learn to become a specialist in web development.  
-
-My favorite tools are part of the JavaScript ecosystem, and since 2022, I've been using Go as my new back-end language, but that's not all ...-->
-
-
-## 🛠️ Stack
-
-### On learning ...
 <div align="center">
-<!--     <a href="https://devicons.railway.com/i/mongodb.svg" title="MongoDB" >
-        <img src="https://devicons.railway.com/i/mongodb.svg" height="40" alt="MongoDB logo"  />
-    </a> -->
+        <h1>Loïck CHERIMONT</h1>
+        <img src="./header_20250707.png" alt="Header for profile"/>
+</div>
+
+## Projects
+
+*It's coming*
+
+## Stack 🛠️
+
+### On working ...
+<div align="center">
     <a href="https://spring.io/" title="Spring Web Framework">
         <img src="https://cdn.simpleicons.org/spring/6db33f" height="50" width="50" alt="NestJS logo"  />
     </a>
@@ -42,7 +38,7 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
 
 
 
-### Language
+### Languages
 
 <!--#### Primary -->
 <div align="center">  
@@ -55,9 +51,9 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
       <a href="https://docs.oracle.com/en/java/javase/17/" title="Java SE 17">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="80" width="80" alt="Java logo" />
       </a>
-    <!--<img width="12" />
-    <a href="https://go.dev/" title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/></a>
-    <img width="12" />-->
+    <img width="12" />
+    <a href="https://go.dev/" title="GO"><img src="https://cdn.simpleicons.org/go" height="40" alt="go logo"/></a>
+    <img width="12" />
 </div>
 
 <!--#### Secondary-->
@@ -105,10 +101,9 @@ My favorite tools are part of the JavaScript ecosystem, and since 2022, I've bee
     <img src="https://cdn.simpleicons.org/git/f05032" height="50" width="50" alt="git logo"  />
   </a>
   <img width="12" />
-<!--   <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.simpleicons.org/mysql/4479a1" height="50" width="50" alt="MongoDB logo" />
   </a>
-  <img width="12" /> -->
   <a href="https://www.mongodb.com/" title="MongoDB">
     <img src="https://cdn.simpleicons.org/mongodb/47a248" height="50" width="50" alt="MongoDB logo" />
   </a>

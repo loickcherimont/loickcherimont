@@ -23,15 +23,16 @@
         <img src="https://cdn.simpleicons.org/react/61dafb" height="50" width="50" alt="React Native logo"/>
     </a>
     <img width="12" />
-<!--     <a href="https://expressjs.com/" title="Express.js, Node.js web application framework">
-        <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="40" alt="Express logo"  />
-    </a> -->
     <a href="https://expo.dev/" title="Expo, framework for Mobile App Development">
         <img src="https://cdn.simpleicons.org/expo/1c2024/edf2f4" height="50" width="50" alt="Expo logo"  />
     </a>
     <img width="12" />
     <a href="https://www.prisma.io/orm" title="Prisma, TypeScript ORM">
         <img src="https://cdn.simpleicons.org/prisma/2d3748/edf2f4" height="50" width="50" alt="Prisma logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://angular.dev/" title="Angular, TypeScript framework">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" width="50" alt="Angular logo" />
     </a>
 </div>
 

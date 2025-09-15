@@ -22,6 +22,10 @@
     <a href="https://tailwindcss.com/" title="Tailwind CSS">
     <img src="https://cdn.simpleicons.org/tailwindcss/06b6d4" height="50" width="50"  alt="Tailwind CSS logo"  />
     </a>
+    <img width="12" />
+    <a href="https://angular.dev/" title="Angular">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" width="50"  alt="Angular logo" />
+    </a>      
 </div>
 
 

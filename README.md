@@ -1,8 +1,16 @@
 
 <div align="center">
         <h1>Loick CHERIMONT</h1>
-        <p>Java Full Stack Developer | Open for new opportunities and innovative projects ! </p>    
+        <p>Java Full Stack Developer (Junior) | Nantes, FRANCE</p>   
 </div>
+
+## 🪪 About me
+
+- 6 years of Web development in autonomy
+- Curious, creative, enjoy solving problems
+- Open to new opportunities and innovative projects !
+
+---
 
 ## 🛠️ Stack 
 
@@ -18,6 +26,7 @@
 
 - [Join me on LinkedIn](https://www.linkedin.com/in/loickcherimont)
 - [Send me a mail](mailto:loickcherimont@gmail.com)
+- [Portfolio](https://loickcherimont.github.io/portfolio/)
 
 ---
 

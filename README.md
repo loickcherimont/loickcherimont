@@ -1,7 +1,7 @@
 
 <div align="center">
         <h1>Loick CHERIMONT</h1>
-        <p>Java Full Stack Developer (Junior) | Nantes, FRANCE</p>   
+        <p>Java / React Developer (Junior) | Nantes, FRANCE</p>   
 </div>
 
 ## 🪪 About me
@@ -14,9 +14,11 @@
 
 ## 🛠️ Stack 
 
-- Languages : TypeScript, Java 17
-- Frameworks : Spring Boot, React, Angular (in progress), Tailwind CSS 
-- Database & ORM : PostgreSQL, Hibernate
+- Frontend : TypeScript, React, Angular (in progress)
+- Backend : Java, Spring Boot
+- Design : Tailwind CSS, Shadcn, DaisyUI
+- Database & ORM : MySQL, PostgreSQL, Hibernate
+- Testing : JUnit, AssertJ, Jasmin / Karma (in progress)
 - DevOps : Git, Docker (in progress),
 - Environment : Node.js, Linux Fedora 42 
 

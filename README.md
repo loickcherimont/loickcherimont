@@ -1,7 +1,7 @@
 
 <div align="center">
         <h1>Loick CHERIMONT</h1>
-        <p>Java / React Developer (Junior) | Nantes, FRANCE</p>   
+        <p>Java Developer | Nantes, FRANCE</p>   
 </div>
 
 ## 🪪 About me

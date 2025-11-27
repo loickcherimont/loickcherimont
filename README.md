@@ -1,4 +1,3 @@
-
 <div align="center">
         <h1>Loick CHERIMONT</h1>
         <p>Java Developer | Nantes, FRANCE</p>   
@@ -14,13 +13,13 @@
 
 ## 🛠️ Stack 
 
-- Frontend : TypeScript, React, Angular (in progress)
+- Frontend : TypeScript, Angular
 - Backend : Java, Spring Boot
 - Design : Tailwind CSS, Shadcn, DaisyUI
-- Database & ORM : MySQL, PostgreSQL, Hibernate
-- Testing : JUnit, AssertJ, Jasmin / Karma (in progress)
+- Database & ORM : PostgreSQL, Hibernate
+- Testing : JUnit, AssertJ
 - DevOps : Git, Docker (in progress),
-- Environment : Node.js, Linux Fedora 42 
+- Environment : Node.js, Linux Fedora 43
 
 ---
 

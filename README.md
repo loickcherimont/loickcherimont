@@ -13,13 +13,25 @@
 
 ## 🛠️ Stack 
 
-- Frontend : TypeScript, Angular
-- Backend : Java, Spring Boot
-- Design : Tailwind CSS, Shadcn, DaisyUI
-- Database & ORM : PostgreSQL, Hibernate
-- Testing : JUnit, AssertJ
-- DevOps : Git, Docker (in progress),
-- Environment : Node.js, Linux Fedora 43
+### Java / Spring
+
+Spring Boot, Spring Data JPA / ORM Hibernate, Spring MVC, API REST
+
+### Databases
+
+PostgreSQL / H2, MongoDB
+
+### Front-end
+
+TypeScript, React, Bootstrap
+
+### Tests
+
+JUnit, AssertJ
+
+### Environment & DevOps
+
+Maven, Git, Docker, Node.js, Linux Fedora
 
 ---
 

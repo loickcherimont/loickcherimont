@@ -9,7 +9,6 @@
 - Curious, creative, enjoy solving problems
 - Open to new opportunities and innovative projects !
 
----
 
 ## 🛠️ Stack 
 
@@ -33,7 +32,6 @@ JUnit, AssertJ
 
 Maven, Git, Docker, Node.js, Linux Fedora
 
----
 
 ## 🫱🏿‍🫲🏽 Connect with me 
 
@@ -41,7 +39,6 @@ Maven, Git, Docker, Node.js, Linux Fedora
 - [Send me a mail](mailto:loickcherimont@gmail.com)
 - [Portfolio](https://loickcherimont.github.io/portfolio/)
 
----
 
 <div align='center'>
 &copy; 2025 • Loick CHERIMONT

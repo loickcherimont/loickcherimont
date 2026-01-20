@@ -5,7 +5,7 @@
 
 ## 🪪 About me
 
-- 6 years of Web development in autonomy
+- 7 years of Web development in autonomy
 - Curious, creative, enjoy solving problems
 - Open to new opportunities and innovative projects !
 
@@ -41,5 +41,5 @@ Maven, Git, Docker, Node.js, Linux Fedora
 
 
 <div align='center'>
-&copy; 2025 • Loick CHERIMONT
+&copy; 2026 • Loick CHERIMONT
 </div>

@@ -22,7 +22,7 @@ PostgreSQL / H2, MongoDB
 
 ### Front-end
 
-TypeScript, React, Bootstrap
+TypeScript, React, Angular (in progress), Bootstrap
 
 ### Tests
 

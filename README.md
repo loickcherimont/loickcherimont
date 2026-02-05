@@ -1,7 +1,17 @@
 <div align="center">
-  <h1>👋🏾 Salut, je suis Loïck CHERIMONT 😉</h1>
-  <p>Développeur Web Fullstack | Passionné par l'apprentissage et les challenges IT</p>
+  <h1>👋🏾 Salut, je suis Loïck CHERIMONT 😉 !</h1>
+  <p>Développeur Web Fullstack - Curieux, autodidacte **7 ans**</p>
 </div>
+
+## 🛠️ Stack Technique
+
+## Actuelle
+Java 21-25, Spring Boot, Spring Data JPA / Hibernate, Spring MVC, API REST, H2, PostgreSQL, MongoDB
+JavaScript / TypeScript, React, Angular (en cours), Figma, Tailwind CSS, Bootstrap
+JUnit, AssertJ, React Testing Library, Karma, Jasmine
+
+### DevOps & Environnement
+Maven, Git/GitHub, Docker, Node.js, Linux Fedora
 
 ## 🖥️ Mes projets
 
@@ -25,12 +35,7 @@ Application de réservation pour le transport.
 Optimisation front/back du site du centre.  
 [En savoir plus](https://akabulo.duboisngo.net/)
 
-## 🛠️ Stack Technique
 
-- **Backend :** Java 21-25, Spring Boot, Spring Data JPA / Hibernate, Spring MVC, API REST, H2, PostgreSQL, MongoDB
-- **Frontend :** JavaScript / TypeScript, React, Angular (en cours), Figma, Tailwind CSS, Bootstrap
-- **Tests :** JUnit, AssertJ, React Testing Library, Karma, Jasmine
-- **DevOps & Environnement :** Maven, Git/GitHub, Docker, Node.js, Linux Fedora
 
 ## 📫 Connect with me
 

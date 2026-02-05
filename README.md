@@ -1,45 +1,52 @@
-<div align="center">
-  <h1>👋🏾 Salut, je suis Loïck CHERIMONT 😉 !</h1>
-</div>
+![Bannière de profil Github - Loïck CHERIMONT](./banniere_github.png)
 
-![Bannière de profil Github - Loïck CHERIMONT](./github_header.png)
+## 🛠️ Je développe avec ...
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-## 🛠️ Stack Technique
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## Actuelle
-Java 21-25, Spring Boot, Spring Data JPA / Hibernate, Spring MVC, API REST, H2, PostgreSQL, MongoDB
-JavaScript / TypeScript, React, Angular (en cours), Figma, Tailwind CSS, Bootstrap
-JUnit, AssertJ, React Testing Library, Karma, Jasmine
+![JUnit](https://img.shields.io/badge/Tests-JUnit%20|%20AssertJ-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-### DevOps & Environnement
-Maven, Git/GitHub, Docker, Node.js, Linux Fedora
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🎓 J'apprends actuellement ...
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-FF4081?style=flat-square&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4BEB?style=flat-square&logoColor=white)
 
 ## 🖥️ Mes projets
 
-⭐ **Portfolio**  
-**Techs :** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
+### ⭐ Portfolio  
 Site web personnel pour présenter mes projets et compétences.  
 [En savoir plus](https://loickcherimont.github.io/portfolio/)
 
-⭐ **Ticketing**  
-**Techs :** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
+### ⭐ Ticketing   
 Application de gestion de tickets pour suivre les demandes et interventions.  
 [En savoir plus](https://github.com/loickcherimont/ticketing)
 
-⭐ **Transport & Co.**  
-**Techs :** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
+### ⭐ Transport & Co.  
 Application de réservation pour le transport.  
 [En savoir plus](https://github.com/loickcherimont/transport-co)
 
-⭐ **Site du CSC Alain KABULO**  
-**Techs :** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
+### ⭐ Site du CSC Alain KABULO  
 Optimisation front/back du site du centre.  
 [En savoir plus](https://akabulo.duboisngo.net/)
 
-
-
-## 📫 Connect with me
+## 📫 Se connecter avec moi
 
 - [Contacter via LinkedIn](https://www.linkedin.com/in/loickcherimont)  
 - [Contacter par email](mailto:loickcherimont@gmail.com)  

@@ -40,7 +40,7 @@ Application de gestion de tickets pour suivre les demandes et interventions.
 
 ### ⭐ Transport & Co.  
 Application de réservation pour le transport.  
-[En savoir plus](https://github.com/loickcherimont/transport-co)
+[En savoir plus](https://github.com/loickcherimont/transport-and-co)
 
 ### ⭐ Site du CSC Alain KABULO (en cours ⚙️)
 Optimisation front/back du site du centre.  

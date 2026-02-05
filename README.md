@@ -42,7 +42,7 @@ Application de gestion de tickets pour suivre les demandes et interventions.
 Application de réservation pour le transport.  
 [En savoir plus](https://github.com/loickcherimont/transport-co)
 
-### ⭐ Site du CSC Alain KABULO  
+### ⭐ Site du CSC Alain KABULO (en cours ⚙️)
 Optimisation front/back du site du centre.  
 [En savoir plus](https://akabulo.duboisngo.net/)
 

@@ -1,7 +1,9 @@
 <div align="center">
   <h1>👋🏾 Salut, je suis Loïck CHERIMONT 😉 !</h1>
-  <p>Développeur Web Fullstack - Curieux, autodidacte **7 ans**</p>
 </div>
+
+![Bannière de profil Github - Loïck CHERIMONT](./github_header.png)
+
 
 ## 🛠️ Stack Technique
 

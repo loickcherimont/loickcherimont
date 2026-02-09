@@ -25,8 +25,6 @@
 ## 🎓 J'apprends actuellement ...
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-FF4081?style=flat-square&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4BEB?style=flat-square&logoColor=white)
 
 ## 🖥️ Mes projets
 

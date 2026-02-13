@@ -41,7 +41,7 @@ Application de réservation pour le transport.
 [En savoir plus](https://github.com/loickcherimont/transport-and-co)
 
 ### ⭐ Site du CSC Alain KABULO (en cours ⚙️)
-Optimisation front/back du site du centre.  
+Optimisation front/back du site de l'association CSC Alain KABULO le CMS Wordpress
 [En savoir plus](https://akabulo.duboisngo.net/)
 
 ## 📫 Se connecter avec moi

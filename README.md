@@ -2,15 +2,13 @@
 
 ## 🛠️ Je développe avec ...
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ![JUnit](https://img.shields.io/badge/Tests-JUnit%20|%20AssertJ-25A162?style=flat-square&logo=junit5&logoColor=white)
@@ -22,9 +20,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🎓 J'apprends actuellement ...
+## ⚙️ Je travaille actuellement sur ...
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### ⭐ Coffre-fort sécurisé fullstack ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+Construction d'un coffre-fort virtuel sécurisé avec authentification JWT en Spring Boot / React
+
+### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
+Optimisation front/back du site de l'association CSC Alain KABULO avec le CMS Wordpress  
+[En savoir plus](https://akabulo.duboisngo.net/)
+
+
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## 🖥️ Mes projets
 
@@ -40,9 +49,7 @@ Application de gestion de tickets pour suivre les demandes et interventions.
 Application de réservation pour le transport.  
 [En savoir plus](https://github.com/loickcherimont/transport-and-co)
 
-### ⭐ Site du CSC Alain KABULO (en cours ⚙️)
-Optimisation front/back du site de l'association CSC Alain KABULO le CMS Wordpress  
-[En savoir plus](https://akabulo.duboisngo.net/)
+
 
 ## 📫 Se connecter avec moi
 

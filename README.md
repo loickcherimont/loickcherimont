@@ -1,6 +1,6 @@
 ![Bannière de profil Github - Loïck CHERIMONT](./banniere_github.png)
 
-## 🛠️ Je développe avec ...
+## 🛠️ Ma stack technique
 
 <!--### Backend -->
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -26,10 +26,9 @@
 ## ⚙️ Je travaille actuellement sur ...
 
 
-<!--### ⭐ Coffre-fort sécurisé fullstack ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-Construction d'un coffre-fort virtuel sécurisé avec authentification JWT en Spring Boot / React -->
+### ⭐ Validation des formulaires avec Jakarta Bean Validation *alias* Java Bean Validation
 
-### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)
+### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)  
 Optimisation front/back du site de l'association CSC Alain KABULO avec le CMS Wordpress  
 [En savoir plus](https://akabulo.duboisngo.net/)
 

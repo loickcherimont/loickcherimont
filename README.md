@@ -26,7 +26,8 @@
 ## ⚙️ Je travaille actuellement sur ...
 
 
-### ⭐ Validation des formulaires avec Jakarta Bean Validation *alias* Java Bean Validation
+### ⭐ API de chat backend ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+Création d'une application backend de chat en temps réel (Stomp, WebSocket)
 
 ### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)  
 Optimisation front/back du site de l'association CSC Alain KABULO avec le CMS Wordpress  

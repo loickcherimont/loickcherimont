@@ -29,9 +29,9 @@
 ### ⭐ API de chat backend ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 Création d'une application backend de chat en temps réel (Stomp, WebSocket)
 
-### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)  
+### ⭐ Refonte Site CSC Alain KABULO ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white) *(non publique)*  
 Optimisation front/back du site de l'association CSC Alain KABULO avec le CMS Wordpress  
-[En savoir plus](https://akabulo.duboisngo.net/)
+[En savoir plus](https://www.csc-alainkabulo.org/fr/)
 
 
 ## 🖥️ Mes projets

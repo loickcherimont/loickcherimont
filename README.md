@@ -1,4 +1,7 @@
-![Bannière de profil Github - Loïck CHERIMONT](./banniere_github.png)
+<div align="center">
+  <h1>Loïck CHERIMONT</h1>
+  <h2>Développeur Back-End Java Junior</h2>
+</div>
 
 ## 🛠️ Ma stack technique
 

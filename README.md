@@ -43,11 +43,6 @@ Ticket management application designed to track support requests and interventio
 Built with **Spring Boot and React**.  
 [View project](https://github.com/loickcherimont/ticketing)
 
-### ⭐ Transport & Co.  
-Transport booking web application built with **Angular**.  
-[View project](https://github.com/loickcherimont/transport-and-co)
-
-
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/loickcherimont)

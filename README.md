@@ -45,7 +45,7 @@ My goal is to grow as a **Java backend developer in a structured enterprise envi
 
 ## 💼 Projects
 
-### Real-Time Chat API
+### Real-Time Chat Backend API
 Spring Boot backend with WebSocket & STOMP for real-time messaging.  
 [See details](https://github.com/loickcherimont/springboot-jwt-secure-chat-api 'Loick CHERIMONT | Ticketing')
 

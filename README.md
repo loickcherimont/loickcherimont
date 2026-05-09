@@ -62,13 +62,16 @@ Website refactoring and optimization using WordPress for CSC Alain Kabulo.
 [Preview](https://www.csc-alainkabulo.org/fr/ 'Loick CHERIMONT | CSC Alain KABULO Website')
 
 
+## 📊 GitHub Stats
+
+![Loick's GitHub stats](https://github-readme-stats.vercel.app/api?username=loickcherimont)
+
 ## 🎯 Objective
 
 I am actively looking for a **Java backend apprenticeship (2026)** in a structured environment where I can:  
 - Strengthen Java backend skills  
 - Work on real enterprise applications  
 - Grow in a production-oriented team
-
 
 ## 📫 Contact
 

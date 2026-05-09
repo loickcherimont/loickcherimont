@@ -14,6 +14,8 @@ which helped me understand **production constraints: quality, performance, and m
 
 My goal is to grow as a **Java backend developer in a structured enterprise environment** but *I'm open to other Tech Stack*.
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🛠️ Tech Stack
 
@@ -61,11 +63,6 @@ Personal portfolio built with React + Spring Boot.
 Website refactoring and optimization using WordPress for CSC Alain Kabulo.  
 [Preview](https://www.csc-alainkabulo.org/fr/ 'Loick CHERIMONT | CSC Alain KABULO Website')
 
-
-## 📊 GitHub Stats
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 ## 🎯 Objective
 

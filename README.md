@@ -64,7 +64,7 @@ Website refactoring and optimization using WordPress for CSC Alain Kabulo.
 
 ## 📊 GitHub Stats
 
-![Loick's GitHub stats](https://github-readme-stats.vercel.app/api?username=loickcherimont)
+![Stats](./profile/stats.svg)
 
 ## 🎯 Objective
 

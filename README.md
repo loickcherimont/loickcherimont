@@ -4,18 +4,13 @@
 </div>
 
 
-## 👨‍💻 About Me
+## 🎯 Objective
 
-After 7 years of **self-learning** in Web Development and 2 years focused on backend Java/Spring,  
-I am currently looking for a **work-study apprenticeship (2026)** to **strengthen** my skills in a **professional environment**.
+I am actively looking for a **Java backend apprenticeship (2026)** in a structured environment where I can:  
+- Strengthen Java backend skills  
+- Work on real enterprise applications  
+- Grow in a production-oriented team
 
-I already evolved in real IT environments *(testing, support, and application development)* within **large organizations**,  
-which helped me understand **production constraints: quality, performance, and maintainability**.
-
-My goal is to grow as a **Java backend developer in a structured enterprise environment** but *I'm open to other Tech Stack*.
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 ## 🛠️ Tech Stack
 
@@ -45,6 +40,9 @@ My goal is to grow as a **Java backend developer in a structured enterprise envi
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 
+![Top Languages](./profile/top-langs.svg)
+
+
 ## 💼 Projects
 
 ### Real-Time Chat Backend API
@@ -63,13 +61,7 @@ Personal portfolio built with React + Spring Boot.
 Website refactoring and optimization using WordPress for CSC Alain Kabulo.  
 [Preview](https://www.csc-alainkabulo.org/fr/ 'Loick CHERIMONT | CSC Alain KABULO Website')
 
-
-## 🎯 Objective
-
-I am actively looking for a **Java backend apprenticeship (2026)** in a structured environment where I can:  
-- Strengthen Java backend skills  
-- Work on real enterprise applications  
-- Grow in a production-oriented team
+![Stats](./profile/stats.svg)
 
 ## 📫 Contact
 

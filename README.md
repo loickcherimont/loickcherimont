@@ -72,5 +72,5 @@ Website refactoring and optimization using WordPress for CSC Alain Kabulo.
 ---
 
 <div align="center">
-© 2026 • Loïck CHERIMONT
+Copyright © 2026 | Loick CHERIMONT | All Rights Reserved.
 </div>

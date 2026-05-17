@@ -51,7 +51,7 @@ Spring Boot backend with WebSocket & STOMP for real-time messaging.
 
 ### Ticketing Application
 Support ticket management system (Spring Boot + React).  
-[See details](https://www.github.com/loickcherimont/ticketing 'Loick CHERIMONT | Ticketing')
+[See details](https://github.com/loickcherimont/ticketing-api/tree/main 'Loick CHERIMONT | Ticketing')
 
 ### Portfolio Website
 Personal portfolio built with React + Spring Boot.  

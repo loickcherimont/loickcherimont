@@ -12,7 +12,7 @@ I am actively looking for a **Java backend apprenticeship (2026)** in a structur
 - Grow in a production-oriented team
 
 
-## 🛠️ Tech Stack
+## 🛠️ My Tools
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -45,23 +45,20 @@ I am actively looking for a **Java backend apprenticeship (2026)** in a structur
 
 ## 💼 Projects
 
-### Real-Time Chat Backend API
-Spring Boot backend with WebSocket & STOMP for real-time messaging.  
-[See details](https://github.com/loickcherimont/springboot-jwt-secure-chat-api 'Loick CHERIMONT | Ticketing')
-
-### Ticketing Application
+### Ticketing Application *(IN PROGRESS)*
 Support ticket management system (Spring Boot + React).  
 [See details](https://github.com/loickcherimont/ticketing-api/tree/main 'Loick CHERIMONT | Ticketing')
+
+### Real-Time Chat Backend API
+Spring Boot backend with WebSocket & STOMP for real-time messaging.  
+[See details](https://github.com/loickcherimont/springboot-jwt-secure-chat-api 'Loick CHERIMONT | Real-Time Chat API')
 
 ### Portfolio Website
 Personal portfolio built with React + Spring Boot.  
 [Preview](https://loickcherimont.github.io/portfolio 'Loick CHERIMONT | Portfolio')
 
-### Association Website (Private)
-Website refactoring and optimization using WordPress for CSC Alain Kabulo.  
-[Preview](https://www.csc-alainkabulo.org/fr/ 'Loick CHERIMONT | CSC Alain KABULO Website')
-
 ![Stats](./profile/stats.svg)
+
 
 ## 📫 Contact
 

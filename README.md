@@ -2,7 +2,7 @@
 
 # Loïck CHERIMONT
 
-### Backend Java Developer | Seeking Apprenticeship (2026)
+### Backend Java Developer (2026)
 
 </div>
 

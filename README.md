@@ -58,11 +58,10 @@ I am actively looking for a **Java backend apprenticeship (2026)** in a structur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
 ### AI Tools
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](#)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
 
 
@@ -71,13 +70,12 @@ I am actively looking for a **Java backend apprenticeship (2026)** in a structur
 
 ## 💼 Projects
 
-### Ticketing Application *(IN PROGRESS)*
+### Ticketing Application
 Support ticket management system (Spring Boot + React).  
 [See details](https://github.com/loickcherimont/ticketing-api/tree/main 'Loick CHERIMONT | Ticketing')
 
-### Real-Time Chat Backend API
-Spring Boot backend with WebSocket & STOMP for real-time messaging.  
-[See details](https://github.com/loickcherimont/springboot-jwt-secure-chat-api 'Loick CHERIMONT | Real-Time Chat API')
+> [!WARNING]
+> Ticketing Application frontend in migration to Angular
 
 ### Portfolio Website
 Personal portfolio built with React + Spring Boot.  

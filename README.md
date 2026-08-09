@@ -71,11 +71,8 @@ I am actively looking for a **Java backend apprenticeship (2026)** in a structur
 ## 💼 Projects
 
 ### Ticketing Application
-Support ticket management system (Spring Boot + React).  
+Support ticket management system (REST API in Spring Boot + UI with Angular).  
 [See details](https://github.com/loickcherimont/ticketing-api/tree/main 'Loick CHERIMONT | Ticketing')
-
-> [!WARNING]
-> Ticketing Application frontend in migration to Angular
 
 ### Portfolio Website
 Personal portfolio built with React + Spring Boot.  

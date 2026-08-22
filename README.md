@@ -16,10 +16,11 @@
 
 ---
 
-<div align="center">
 
 ## 🧠 Focus
 
+<div align="center">
+  
 Junior Backend Developer focused on **Java / Spring Boot ecosystems**,  
 building production-like projects with **clean architecture, testing, and deployment practices**.
 

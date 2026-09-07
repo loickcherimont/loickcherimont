@@ -82,7 +82,7 @@ Support ticket management system (REST API in Spring Boot + UI with Angular).
 [See details](https://github.com/loickcherimont/ticketing-api/tree/main 'Loick CHERIMONT | Ticketing')
 
 ### Portfolio Website
-Personal portfolio built with React + Spring Boot.  
+Personal portfolio built with Angular 22 (SSG)  
 [Preview](https://loickcherimont.github.io/portfolio 'Loick CHERIMONT | Portfolio')
 
 <!-- ![Stats](./profile/stats.svg) -->

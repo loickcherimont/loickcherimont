@@ -8,7 +8,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=loickcherimont&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/loickcherimont?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/loickcherimont?label=Stars&style=flat)
 
